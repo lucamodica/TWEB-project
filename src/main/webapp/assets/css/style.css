@@ -1,0 +1,27 @@
+.ri-lg {
+    vertical-align: -0.15em;
+}
+
+.btnAdd {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.alert_notify {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.btnNext {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.btnBack {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}

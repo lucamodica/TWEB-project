@@ -1,0 +1,7 @@
+# InelliJ files
+.idea/
+*.iml
+target
+out
+
+src/main/webapp/node_modules
