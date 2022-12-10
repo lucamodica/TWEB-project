@@ -1,4 +1,4 @@
-# Web-app lesson booking
+# Web-app Lesson Booking
 
 Project that consists on **an online platform for booking lessons**. There is also an administrative part for admin users, where they can manage courses and teacher offered by the service.
 
